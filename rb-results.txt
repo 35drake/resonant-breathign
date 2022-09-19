@@ -1,0 +1,12 @@
+Randomized ranges: 
+Inhale ratio [0.3,0.35,0.4,0.45,0.5]
+Breaths/min [5,5.5,6,6.5,7]
+
+Inhale ratio,Breaths/min,Heartbeats/min,Sec of trial,date/time,comments
+x1,x2,y,c1,c2,c3
+----------------------
+
+0.3,5,95.9090909090909,132.0,17:37:27 on 2022-08-24,Sitting at lib and have to pee a lil and maybe lost count and exhale time was d long wow
+0.5,6.5,87.28571428571428,129.23076923076923,17:54:36 on 2022-08-29,Slight anxiety
+0.35,6.5,111.42857142857143,129.23076923076923,15:12:49 on 2022-09-04,Kinda lost count at end, but def struggling for breath. Inhale/Exhale ratio WAY too low
+0.5,6.5,107.25,129.23076923076923,17:02:39 on 2022-09-09,
